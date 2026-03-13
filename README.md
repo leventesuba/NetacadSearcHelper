@@ -45,24 +45,6 @@ Ctrl + C
 
 ---
 
-# 🧰 Panel Buttons
-
-### 🌐 Open Reference Page
-Opens the reference website in a new tab.  
-If the page is already open, the extension switches to that tab.
-
-### 🔎 Search
-Searches the copied question text on the reference page.
-
-### ✂️ First Words
-Searches only the first part of the copied question.  
-This helps if the full sentence search does not find a match.
-
-### 🔙 Back
-Returns to the NetAcad tab where you started.
-
----
-
 # 🧠 Typical Workflow
 
 1. Select the question on the NetAcad page  
@@ -89,12 +71,10 @@ This makes navigation between the question and the reference page much faster.
 
 # ✨ Features
 
-- Floating control panel
 - Clipboard based search
 - Quick tab switching
 - Draggable interface
 - Collapsible UI
-- Works with many open tabs
 - Fast navigation between pages
 
 ---
