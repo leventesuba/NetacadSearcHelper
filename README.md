@@ -1,6 +1,4 @@
-# NetacadSearcHelper
-
-# 🚀 Quick Search Pro
+# 🚀 NetacadSearcHelper
 
 **NetacadSearcher** is a Chrome extension that helps you quickly search questions from NetAcad on a reference website without manually switching between multiple tabs.
 
