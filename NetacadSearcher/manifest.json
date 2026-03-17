@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Netacad Searcher",
+  "version": "3.0",
+  "permissions": ["tabs", "scripting", "clipboardRead", "storage"],
+  "host_permissions": [
+    "https://*.netacad.com/*",
+    "https://itexamanswers.net/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*.netacad.com/*", "https://itexamanswers.net/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
